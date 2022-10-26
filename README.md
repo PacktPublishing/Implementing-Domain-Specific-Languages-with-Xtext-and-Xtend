@@ -21,3 +21,7 @@ While you can simply clone this git repository and import the projects in Eclips
 we strongly suggest you use the automatic procedure described in [GETTINGSOURCES](docs/GETTINGSOURCES.md).
 
 [![Build Status](https://travis-ci.org/LorenzoBettini/packtpub-xtext-book-2nd-examples.svg?branch=master)](https://travis-ci.org/LorenzoBettini/packtpub-xtext-book-2nd-examples)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781782160304">https://packt.link/free-ebook/9781782160304 </a> </p>
